@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+dist/
+*.pem
+.env
+.env.local
+.env.*.local
+npm-debug.log
+README_DEPLOY.md
+deploy.sh
+nginx.conf
