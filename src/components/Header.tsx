@@ -14,7 +14,7 @@ export default function Header() {
         <div className="text-left">
           <h1 className="text-4xl sm:text-5xl font-black text-blood-red leading-tight">BLUSH MC</h1>
           <p className="text-sm sm:text-lg text-gray-300 mt-1">A PvP Server for True Warriors</p>
-          <p className="text-xs sm:text-sm text-gray-400 mt-1">MC 1.20 | Pure Vanilla Combat | Whitelist Only</p>
+          <p className="text-xs sm:text-sm text-gray-400 mt-1">MC 26.1.2 | Pure Vanilla Combat | Whitelist Only</p>
         </div>
       </div>
     </header>
