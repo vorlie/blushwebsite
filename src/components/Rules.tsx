@@ -14,7 +14,7 @@ export default function Rules() {
     },
     {
       title: 'Respect the Team Limits',
-      description: 'Stick to the 2-3 player limit per team. Mega-alliances will be dismantled on sight.'
+      description: 'Stick to the 2-3 player limit per team.'
     }
   ]
 
