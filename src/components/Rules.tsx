@@ -14,7 +14,7 @@ export default function Rules() {
     },
     {
       title: 'Respect the Team Limits',
-      description: 'Stick to the 2-3 player limit per team.'
+      description: 'Stick to the 2-4 player limit per team.'
     }
   ]
 
